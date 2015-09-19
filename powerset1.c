@@ -1,3 +1,10 @@
+/* Power Set Problem ! */
+
+/* Approach : Backtracking */
+
+/* Solution using recursion where recursion is made on selection or deselection
+ * of a participating item */
+
 # include <stdio.h>
 # define MAX_NUM 10
 
